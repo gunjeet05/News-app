@@ -9,7 +9,8 @@ Currently, two official plugins are available:
 
 # Getting Started
 - 1.Clone the repository.
-- 2.Then do npm install and npm run dev
+- 2 Go to folder by using cd 
+- 3.Then do npm install and npm run dev
 ```bash
 npm install
 npm run dev
