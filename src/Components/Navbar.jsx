@@ -7,7 +7,7 @@ const Navbar = () => {
   const navigate=useNavigate();
   const [data, setData]=useState();
   const handleChange=(e)=>{
-    console.log(data, "here");
+  //  console.log(data, "here");
     setData(e.target.value);
   }
 
@@ -18,7 +18,7 @@ const Navbar = () => {
     }
     catch(err){
       navigate('/error');
-      console.log(err);
+     // console.log(err);
 
     }
     
