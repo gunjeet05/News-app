@@ -1,0 +1,141 @@
+.main-img{
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+.main-div{
+    width: 80%;
+    border: 1px solid #ddd;
+    padding: 2rem;
+}
+
+.small-text{
+    display: inline;
+    background-color: green;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+    margin-right: 2rem;
+   
+
+}
+
+.head-text{
+    line-height:2.4rem;
+    
+    font-size: 2rem;
+    font-weight: 600;
+    margin-top: 0;
+    letter-spacing: 0.5px;
+    
+
+}
+
+.desc{
+    line-height:2rem;
+    
+    font-size: 1.2rem;
+    font-weight: 400;
+
+    
+
+}
+
+.sec-img{
+    width: 5rem;
+    height: 5rem;
+}
+
+.sm-news{
+    display: flex;
+    width: 80%;
+    padding:1rem 2rem;
+    justify-content: space-between;
+    border-bottom: 1px dotted #aaa;
+    
+}
+
+
+.err{
+    display:flex;
+    flex-direction: column;
+    padding: 1rem;
+    gap: .05rem;
+    margin-top: 2rem;
+}
+.main-text{
+    line-height:2.4rem;
+    
+    font-size: 2rem;
+    font-weight: 600;
+    margin-top: 0;
+    letter-spacing: 0.5px;
+}
+
+.err p{
+    display: inline-block
+}
+.err p:hover{
+    
+    color: hsla(0, 59%, 41%, 0.696);
+}
+
+.heading-text{
+    margin-top: 4.2rem;
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+
+.newsItems{
+    margin-top: 1rem;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(9, 103, 210);
+    padding: 0.5rem;
+    display: inline-block;
+    margin-left: 0.5rem;
+    border-radius: 3px;
+}
+
+.main{
+    padding-left: 2rem;
+}
+
+
+.header-text{
+    font-size: 1.6rem;
+    font-weight: 600;
+
+}
+
+.span-text{
+    color: red;
+}
+
+.link{
+    font-size: 1.2rem;
+    font-weight: 500;
+    
+}
+
+.link:hover{
+    color: blue;
+}
+
+
+.news-link{
+    text-decoration: none;
+    color: black;
+    line-height:2rem;
+    
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+.blue-btn{
+    text-decoration: none;
+    color: white;
+    background-color: #8080ff;
+    padding: 0.3rem;
+}

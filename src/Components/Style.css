@@ -1,0 +1,57 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    
+}
+
+
+li{
+    list-style: none;
+}
+
+
+img{
+    object-fit: contain;
+    width: 5rem;
+
+    
+    object-fit: cover;
+    aspect-ratio: auto;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
+
+.errormessage{
+    font-size: large;
+    margin-top: 4.2rem;
+    font-weight: 600;
+    text-align: center;
+
+}
+
+.main-nav{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    padding:0.5rem;
+    background-color: rgba(112, 128, 144, 0.176);
+    border-radius: 2px;
+}
+
+.search{
+    padding: 0.3rem 0.2rem;
+    width: 70%;
+    
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    
+    
+}
