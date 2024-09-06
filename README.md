@@ -17,6 +17,11 @@ npm run dev
 
 ```
 
+###Screenshots
+![NEWS webiste](https://github.com/user-attachments/assets/e43f6e0c-d767-485f-a771-f8414483ab47)
+
+
+
 
 
 
